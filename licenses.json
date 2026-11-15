@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "app_id": "geopoint-mapper",
+  "list_version": 2,
+  "generated_at": "2026-11-15T19:32:37+00:00",
+  "licenses": [
+    {
+      "key_hash": "a30ab2a5855c60e0fc75c561b636aef254fd91d77719a677bb1adbe8ba79b226",
+      "expires_at": null
+    },
+    {
+      "key_hash": "cbd9e6e437ee244fb97871fd104147098520a5d087b5819c1ffecf773621e9c2",
+      "expires_at": null
+    },
+    {
+      "key_hash": "cc13106fa70dbce60dd1128f0b593aeb834c98919adf3e3164f53951a5c17857",
+      "expires_at": null
+    }
+  ],
+  "signature": "HeydWsP1DwcKuQiuEOMYwLm6hs5Wh3C2IaMOKGjDc8Mu2oAgwpoL14QD/S368PnI3JL5XbveIjf/rfrLbZubAg=="
+}
